@@ -1,5 +1,5 @@
 # Themify-icons-sass
-Sass files for Themify icons
+Sass support for Themify icons
 
 =====================================
 
